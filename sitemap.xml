@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://www.hanjing.xyz/post-sitemap.xml</loc>
+        <loc>https://www.hanjing.xyz/post-sitemap.xml</loc>
         <lastmod>2018-11-25T17:11:36.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.hanjing.xyz/page-sitemap.xml</loc>
+        <loc>https://www.hanjing.xyz/page-sitemap.xml</loc>
         <lastmod>2018-11-25T17:10:28.000Z</lastmod>
     </sitemap>
 
